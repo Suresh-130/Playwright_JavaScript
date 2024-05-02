@@ -1,0 +1,33 @@
+<testsuites id="" name="" tests="7" failures="0" skipped="0" errors="0" time="30.061679">
+<testsuite name="example.spec.js" timestamp="2024-04-15T08:31:50.974Z" hostname="chromium" tests="7" failures="0" skipped="0" time="53.239" errors="0">
+<testcase name="Input fields operations" classname="example.spec.js" time="7.892">
+</testcase>
+<testcase name="Drop down operations" classname="example.spec.js" time="9.672">
+<system-out>
+<![CDATA[[90mundefined[39m
+[ [32m'sharp'[39m ]
+]]>
+</system-out>
+</testcase>
+<testcase name="Alerts operations" classname="example.spec.js" time="6.546">
+<system-out>
+<![CDATA[========
+Message: Enter your name
+Type:  prompt
+------------
+Message: Hey! Welcome to LetCode
+Type:  alert
+------------
+]]>
+</system-out>
+</testcase>
+<testcase name="radio Button operations" classname="example.spec.js" time="7.94">
+</testcase>
+<testcase name="Iframes" classname="example.spec.js" time="7.052">
+</testcase>
+<testcase name="Windows navigation" classname="example.spec.js" time="10.559">
+</testcase>
+<testcase name="Drag Operations" classname="example.spec.js" time="3.578">
+</testcase>
+</testsuite>
+</testsuites>
